@@ -9,7 +9,7 @@
 -  Version: 1.1.0
 
 ---
-Splash rotation scrip that runs automatically on Radio boot
+Splash rotation script that runs automatically on Radio boot
 
 # ** This script is a work in progress and is not complete **
 
